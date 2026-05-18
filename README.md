@@ -1,4 +1,4 @@
 # LMSGI_UD07_Barba_L-pez_Mar-aDolores
 
 ## Entregable 1: Generación de informe
-Para empezar, debemos de crear un xml para organizar la estructura del proyecto, usando qweb para su mejora de estructuración y con ello, directivas de interacción. Al declarar el xml, se ha puesto automáticamente la estructura de odoo, así que procedí a investigar que significaba la estructura dada. Una vez la comprendí, vi que lo que me había dado era el reporte, que me genere el informe en PDF y el nombre técnico del informe. 
+Para comenzar la factura, he cogido la factura del xml que hicimos en una actividad anterior, cuando creamos la factura en Odoo. Para ello he buscado en vistas e introducir por clave las palabras deseadas. Ahora para ponerlo acorde a la actual actividad, hay que ir modificandola sin perder el aspecto de factura. 
